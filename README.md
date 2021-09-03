@@ -8,9 +8,9 @@ Colab notebook links for the sessions are below
 # PLEASE NOTE THAT YOU MUST COPY NOTEBOOKS TO DRIVE BEFORE DOING ANYTHING
 
 # Day 1:
-## 1. Python Refresher:  https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day1/1.Python_Refresher.ipynb
+## 1. Python Refresher: https://colab.research.google.com/github/amro-coder/first_proj/blob/master/Copy_of_Python_Refresher.ipynb
 
-## 2. Data Visualization: 
+## 2. Data Visualization: https://colab.research.google.com/drive/1Puc9-nHX4B6XdI1zQQHJHIJgmqXRB-5Z#scrollTo=qyzPn9kKdsUL
 
 ## 3. Machine Learning 1: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day1/3.Machine_Learning_1.ipynb
 
