@@ -5,7 +5,7 @@ the files used in the IndabaXSudan 2021 are stored in the Days folder
 
 Colab notebook links for the sessions are below
 
-# PLEASE NOTE THAT YOU MUST COPY TO DRIVE BEFORE DOING ANYTHING
+# PLEASE NOTE THAT YOU MUST COPY NOTEBOOKS TO DRIVE BEFORE DOING ANYTHING
 
 # Day 1:
 ## 1. Python Refresher:  https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day1/1.Python_Refresher.ipynb
