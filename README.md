@@ -12,15 +12,15 @@ Colab notebook links for the sessions are below
 
 ## 2. Data Visualization: 
 
-## 3. Machine Learning 1:
+## 3. Machine Learning 1: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day1/3.Machine_Learning_1.ipynb
 
 ## 4. Machine Learning 2: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day1/4.Machine_Learning_2.ipynb
 
 # Day 2:
 ## 1. Math For Deep Learning: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day2/1.Mathematics_for_Deep_Learning.ipynb
 
-## 2. Deep Learning 1:
+## 2. Deep Learning 1: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day2/2.Deep_Learning_1.ipynb
 
-## 3. Deep Learning 2:
+## 3. Deep Learning 2: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day2/3.Deep_Learning_2.ipynb
 
 ## 4. Pytorch: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day2/4.Pytorch_feedforward_nets.ipynb
