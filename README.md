@@ -12,7 +12,7 @@ Colab notebook links for the sessions are below
 
 ## 2. Data Visualization: https://colab.research.google.com/drive/1Puc9-nHX4B6XdI1zQQHJHIJgmqXRB-5Z#scrollTo=qyzPn9kKdsUL
 
-## 3. Machine Learning 1: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day1/3.Machine_Learning_1.ipynb
+## 3. Machine Learning 1: https://colab.research.google.com/drive/1oizA9Fmc8oEt21AsWWoagi82BFFfQQtf?usp=sharing
 
 ## 4. Machine Learning 2: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day1/4.Machine_Learning_2.ipynb
 
