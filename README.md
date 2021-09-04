@@ -19,7 +19,9 @@ Colab notebook links for the sessions are below
 # Day 2:
 ## 1. Math For Deep Learning: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day2/1.Mathematics_for_Deep_Learning.ipynb
 
-## 2. Deep Learning 1: https://colab.research.google.com/drive/1vfmGiM5cKHFFnIGhlhA8h7rLNKCCSyMQ#scrollTo=D047BUOIm-gx
+## 2. Deep Learning 1: 
+    https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day2/2.Deep_Learning_1.ipynb
+    https://colab.research.google.com/drive/1vfmGiM5cKHFFnIGhlhA8h7rLNKCCSyMQ#scrollTo=D047BUOIm-gx
 
 ## 3. Deep Learning 2: https://colab.research.google.com/github/Ahmed-5/IndabaX-Sudan-2021/blob/master/Day2/3.Deep_Learning_2.ipynb
 
