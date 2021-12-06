@@ -1,0 +1,8 @@
+The link to the used notebook
+
+https://github.com/RadiantMLHub/ml4eo-bootcamp-2021/blob/main/Lecture%206/machine_learning_python.ipynb
+
+
+the link to RadiantMLHub ml4eo-bootcamp-2021
+
+https://github.com/RadiantMLHub/ml4eo-bootcamp-2021
